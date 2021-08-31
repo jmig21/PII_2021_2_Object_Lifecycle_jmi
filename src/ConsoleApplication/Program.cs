@@ -23,5 +23,12 @@ namespace ConsoleApplication
             train.StartEngines();
             Console.WriteLine("Hello World!");
         }
+
+    for i in range(100)
+    {
+        new Train()
+    }
+    
+
     }
 }
